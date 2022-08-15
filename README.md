@@ -9,7 +9,9 @@ This is a small collection of **Fun projects**, **Exercises**, and **Codes** tha
 Each folder contains one or more scripts. I have already written some of these codes and for now I will only put them, but I try to create a special branch for each new project and only put the final code in the main branch.
 
  > Note: Some of these codes are included in a comparative form or... along with some other code samples written by my friends or others, which are freely placed.
+ 
  > Note: Some of these codes are transferred to this repository indirectly from the uncompleted repository or from some other repositories.
+ 
  > Note: I tried to put a description file in each folder.
 
 ### Requirements + Recommended:
