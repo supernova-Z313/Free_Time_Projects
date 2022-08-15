@@ -3,16 +3,8 @@ Hello 👋
 
 This is a small collection of **Fun projects**, **Exercises**, and **Codes** that I did in my *free time* or while doing other projects when I encountered problems and tried to solve them.
         
- > Note: This collection is only Python projects . <p align="right">
-	<a href="#">
-    <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
-	  </a>  
-  </p>
+ > Note: This collection is only Python projects .        ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-
-<!--
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
--->
 ## Description 📑
 Each folder contains one or more scripts. I have already written some of these codes and for now I will only put them, but I try to create a special branch for each new project and only put the final code in the main branch.
 
