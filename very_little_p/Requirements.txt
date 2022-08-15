@@ -1,0 +1,2 @@
+colorama  # for 'color text' code
+
