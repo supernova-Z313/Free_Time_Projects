@@ -8,7 +8,7 @@ To install each of the libraries, use the following command:
 
 Windows:
 
-‍‍‍‌‍‍‍‍‍‍```console
+```console
 pip install library_name
 ```
 
