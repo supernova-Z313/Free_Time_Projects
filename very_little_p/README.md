@@ -25,4 +25,11 @@ With the **`colorama`** library, you can easily create colored texts on your con
 ## list_adad_motavali.py :
 By entering the number ‌n, this code returns a list with n list of subgroups, each of which has 7 members more than the previous one, and their members are natural numbers.
 
+## star_patern.py :
+This code draws a pyramid-like triangle with the vertex 1 and the base of  n on the screen by taking  number n in the input.
 
+## hads_adad.py :
+Number guessing game to have fun and teach a friend the basics.
+> Note: random library is a build-in library and no need to install.
+
+## 
