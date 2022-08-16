@@ -17,3 +17,12 @@ linux:
 pip3.X install library_name
 ```
 
+# Description
+
+## color_text.py :
+With the **`colorama`** library, you can easily create colored texts on your console (tested on Windows and Linux).
+
+## list_adad_motavali.py :
+By entering the number ‌n, this code returns a list with n list of subgroups, each of which has 7 members more than the previous one, and their members are natural numbers.
+
+
