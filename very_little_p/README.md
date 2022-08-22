@@ -16,7 +16,11 @@ linux:
 ```console
 pip3.X install library_name
 ```
+Or you can install all of them at the same time with the following command:
 
+```console
+pip3.X install -r Requirements.txt
+```
 # Description 📒
 
 ## color_text.py :
