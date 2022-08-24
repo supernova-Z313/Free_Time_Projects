@@ -36,5 +36,9 @@ This code draws a pyramid-like triangle with the vertex 1 and the base of  n on 
 Number guessing game to have fun and teach a friend the basics.
 > Note: random library is a build-in library and no need to install.
 
-## 
+## max_value_len_in_dic.py :
+As input, it receives a dictionary whose values are a list with different members. In the answer, it returns the key whose X has the largest number of non-duplicate members. Duplicate members are counted as one.
+
+##
+
 
